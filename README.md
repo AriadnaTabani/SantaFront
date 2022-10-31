@@ -1,2 +1,0 @@
-# SantaFeFront
-Práctico Front
